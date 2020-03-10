@@ -1,8 +1,8 @@
-package com.mayousheng.www.service.impl;
+package com.borber.service.impl;
 
-import com.mayousheng.www.mapper.UserMapper;
-import com.mayousheng.www.pojo.User;
-import com.mayousheng.www.service.UserService;
+import com.borber.mapper.UserMapper;
+import com.borber.model.User;
+import com.borber.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

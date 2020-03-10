@@ -1,4 +1,4 @@
-package com.mayousheng.www.pojo;
+package com.borber.model;
 
 public class User {
     private Integer id;

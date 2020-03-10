@@ -1,6 +1,6 @@
-package com.mayousheng.www.mapper;
+package com.borber.mapper;
 
-import com.mayousheng.www.pojo.User;
+import com.borber.model.User;
 
 public interface UserMapper {
     int deleteByPrimaryKey(Integer id);

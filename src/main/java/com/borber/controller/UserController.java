@@ -1,7 +1,7 @@
-package com.mayousheng.www.controller;
+package com.borber.controller;
 
-import com.mayousheng.www.pojo.User;
-import com.mayousheng.www.service.UserService;
+import com.borber.model.User;
+import com.borber.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

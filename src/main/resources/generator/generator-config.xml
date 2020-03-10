@@ -22,7 +22,7 @@
             <property name="forceBigDecimals" value="false"/>
         </javaTypeResolver>
         <!-- 实体类生成的位置 -->
-        <javaModelGenerator targetPackage="com.mayousheng.www.pojo" targetProject="src/main/java">
+        <javaModelGenerator targetPackage="com.mayousheng.www.model" targetProject="src/main/java">
             <!-- 是否对model添加 构造函数 -->
             <property name="constructorBased" value="true"/>
             <!-- 是否允许子包，即targetPackage.schemaName.tableName -->
