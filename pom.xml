@@ -9,7 +9,7 @@
     <url>http://maven.apache.org</url>
     <properties>
         <!--spring版本号-->
-        <spring.version>4.3.25.RELEASE</spring.version>
+        <spring.version>5.2.4.RELEASE</spring.version>
 
         <!--mybatis版本号-->
         <mybatis.version>3.5.3</mybatis.version>
@@ -131,7 +131,7 @@
             <version>1.4</version>
         </dependency>
 
-        <!-- 添加fastjson -->
+        <!-- 添加 fastjson -->
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
@@ -194,7 +194,6 @@
             <artifactId>commons-codec</artifactId>
             <version>1.13</version>
         </dependency>
-
 
     </dependencies>
 
