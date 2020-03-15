@@ -9,7 +9,7 @@ import com.borber.model.IVehicle;
  * @Description TODO
  * @createTime 2020年03月15日 16:33
  */
-public class IVehicleBusImpl implements IVehicle {
+public class VehicleBusImpl implements IVehicle {
     @Override
     public void roar() {
         System.out.println("I am a bus");

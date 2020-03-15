@@ -9,11 +9,10 @@
                         http://www.springframework.org/schema/context/spring-context-3.1.xsd
                         http://www.springframework.org/schema/mvc
                         http://www.springframework.org/schema/mvc/spring-mvc-4.0.xsd">
-    <bean id="Car" class="com.borber.model.impl.VehicleCarImpl"></bean>
+    <bean id="Save" class="com.borber.model.impl.Work1SavingAccountImpl"></bean>
 
-    <bean id="Bus" class="com.borber.model.impl.VehicleBusImpl"></bean>
+    <bean id="Fixed" class="com.borber.model.impl.Work1FixedAccoiuntImpl"></bean>
 
-    <bean id="Bike" class="com.borber.model.impl.VehicleBikeImpl"></bean>
+    <bean id="Show" class="com.borber.service.impl.Work1AccountServiceImpl"></bean>
 
-    <bean id="Show" class="com.borber.service.impl.ShowVehicleImpl"></bean>
 </beans>

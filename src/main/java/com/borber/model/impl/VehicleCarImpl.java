@@ -9,7 +9,7 @@ import com.borber.model.IVehicle;
  * @Description TODO
  * @createTime 2020年03月15日 16:26
  */
-public class IVehicleCarImpl implements IVehicle {
+public class VehicleCarImpl implements IVehicle {
     @Override
     public void roar(){
         System.out.println("I am a car");

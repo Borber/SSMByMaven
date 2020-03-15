@@ -10,10 +10,10 @@ import java.util.Scanner;
  * @author BORBER
  * @version 1.0.0
  * @ClassName main.java
- * @Description TODO
+ * @Description homework 1 exercise 1
  * @createTime 2020年03月15日 16:51
  */
-public class tMain {
+public class Work1CarMain {
     public static void main(String[] args) {
         //获取核心容器
         ApplicationContext ac = new ClassPathXmlApplicationContext("spring/spring-homework1-car.xml");
