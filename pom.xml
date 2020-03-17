@@ -12,7 +12,7 @@
         <spring.version>5.2.4.RELEASE</spring.version>
 
         <!--mybatis版本号-->
-        <mybatis.version>3.5.3</mybatis.version>
+        <mybatis.version>3.5.4</mybatis.version>
 
         <!--mariadb驱动版本号-->
         <mariadb-driver.version>2.5.1</mariadb-driver.version>
