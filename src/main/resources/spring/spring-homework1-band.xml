@@ -14,5 +14,4 @@
     <bean id="Fixed" class="com.borber.model.impl.Work1FixedAccoiuntImpl"></bean>
 
     <bean id="Show" class="com.borber.service.impl.Work1AccountServiceImpl"></bean>
-
 </beans>

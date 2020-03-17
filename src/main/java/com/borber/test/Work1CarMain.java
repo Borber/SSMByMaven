@@ -1,9 +1,14 @@
 package com.borber.test;
 
 import com.borber.service.IShowVehicle;
+import org.springframework.beans.factory.BeanFactory;
+import org.springframework.beans.factory.xml.XmlBeanFactory;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
+import org.springframework.core.io.ClassPathResource;
+import org.springframework.core.io.Resource;
 
+import java.sql.ResultSet;
 import java.util.Scanner;
 
 /**
